@@ -1,0 +1,25 @@
+{
+  "title": "Key Performance Index",
+  "data": [
+    {
+      "title": "Total Pendapatan",
+      "total": "100000",
+      "icon": "https://www.svgrepo.com/show/448030/income-amount.svg"
+    },
+    {
+      "title": "Total Voucher",
+      "total": "100000",
+      "icon": "https://www.svgrepo.com/show/477655/ticket-4.svg"
+    },
+    {
+      "title": "Bulan ini",
+      "total": "100000",
+      "icon": "https://www.svgrepo.com/show/429055/business-fund-income.svg"
+    },
+    {
+      "title": "Rata-rata Pendapatan",
+      "total": "100000",
+      "icon": "https://www.svgrepo.com/show/450940/graph-moving-average.svg"
+    }
+  ]
+}
