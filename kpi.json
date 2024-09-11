@@ -3,23 +3,23 @@
   "data": [
     {
       "title": "Total Pendapatan",
-      "total": "100000",
-      "icon": "https://www.svgrepo.com/show/448030/income-amount.svg"
+      "total": "1040K",
+      "icon": "https://raw.githubusercontent.com/ferys2195/json-api-sampler/main/business-and-finance.png"
     },
     {
       "title": "Total Voucher",
-      "total": "100000",
-      "icon": "https://www.svgrepo.com/show/477655/ticket-4.svg"
+      "total": "137",
+      "icon": "https://raw.githubusercontent.com/ferys2195/json-api-sampler/main/bill.png"
     },
     {
       "title": "Bulan ini",
-      "total": "100000",
-      "icon": "https://www.svgrepo.com/show/429055/business-fund-income.svg"
+      "total": "92K",
+      "icon": "https://raw.githubusercontent.com/ferys2195/json-api-sampler/main/salary.png"
     },
     {
       "title": "Rata-rata Pendapatan",
-      "total": "100000",
-      "icon": "https://www.svgrepo.com/show/450940/graph-moving-average.svg"
+      "total": "80K",
+      "icon": "https://raw.githubusercontent.com/ferys2195/json-api-sampler/main/financial-statement.png"
     }
   ]
 }
