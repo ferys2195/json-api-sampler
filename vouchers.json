@@ -7,6 +7,7 @@
       "id": "1",
       "name": "Paket 2 Jam",
       "duration": "2",
+      "description": "Unlimited selama 2 Jam",
       "price": "6000",
       "max_users": "1"
     },
@@ -14,6 +15,7 @@
       "id": "2",
       "name": "Paket 5 Jam",
       "duration": "5",
+      "description": "Unlimited selama 5 Jam",
       "price": "12000",
       "max_users": "1"
     },
@@ -21,6 +23,7 @@
       "id": "2",
       "name": "Paket 1 Hari",
       "duration": "24",
+      "description": "Unlimited selama 1 Hari",
       "price": "25000",
       "max_users": "1"
     },
@@ -28,6 +31,7 @@
       "id": "2",
       "name": "Paket 7 Hari",
       "duration": "168",
+      "description": "Unlimited selama 7 Hari",
       "price": "80000",
       "max_users": ""
     },
@@ -35,6 +39,7 @@
       "id": "2",
       "name": "Paket 30 Hari",
       "duration": "720",
+      "description": "Unlimited selama 30 Hari",
       "price": "215000",
       "max_users": "1"
     }
